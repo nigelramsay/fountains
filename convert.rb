@@ -1,8 +1,6 @@
 require "json"
-require "byebug"
 require "rgeo"
 require "rgeo/proj4"
-require 'rgeo/geo_json'
 
 wgs84_proj4 = '+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs'
 wgs84_factory = RGeo::Geographic.spherical_factory(:srid => 4326, :proj4 => wgs84_proj4)
@@ -48,7 +46,7 @@ features = data["features"].map do |fountain|
     type: "Feature",
     properties: {
       description: fountain["properties"]["Description"],
-      "ref:wcc:asset_number" => fountain["properties"]["Asset_Number"]
+      "ref:wcc:asset_number" => fountain["properties"]["Asset_Number"].to_s
     },
     geometry: {
       type: "Point",

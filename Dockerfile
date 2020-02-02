@@ -21,3 +21,5 @@ RUN mkdir -p $INSTALL_PATH
 WORKDIR $INSTALL_PATH
 
 ADD . $INSTALL_PATH
+
+RUN bundle install
