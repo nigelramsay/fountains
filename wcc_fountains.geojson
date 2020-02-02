@@ -1,0 +1,2849 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457396,
+            -5063381
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "OdysseyID": "20420294",
+        "Description": "Drinking fountain and tap attached to the side of the toilets/changing rooms.",
+        "Asset_Number": 20420294,
+        "GIS_ID": "20420294",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain and tap attached to the side of the toilets/changing rooms.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1546905600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Lyall Bay\\Te Raekaihau Point and Princess Bay - P3327",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454513,
+            -5061971
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "OdysseyID": "20410515",
+        "Description": "Drinking fountain at Tawa Tawa Reserve (Dog Exercise Area) at the Murchsion St entrance carpark. ",
+        "Asset_Number": 20410515,
+        "GIS_ID": "20410515",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain at TawaTawa Reserve (Dog Exercise Area) at the Murchsion St entrance carpark. Refer to the attachments for further details.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": 1530403200000,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1527811200000,
+        "Condition_Date": 1554163200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Owhiro Bay\\Tawa Tawa Reserve, Happy Valley Rd",
+        "Dog_Bowl": "Yes",
+        "Filter": "Yes",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457113,
+            -5049399
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "OdysseyID": "01431070",
+        "Description": "Drinking fountain at about the half-way mark on the artificial turf.",
+        "Asset_Number": 20011228,
+        "GIS_ID": "01431070",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "about the half way mark on the artificial turf",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1282867200000,
+        "Condition_Date": 1554768000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Khandallah\\Nairnville Park & Play Area - P1623",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454825,
+            -5054254
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "OdysseyID": "01293639",
+        "Description": "Drinking fountain beside public toilets at play area.",
+        "Asset_Number": 20002709,
+        "GIS_ID": "01293639",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain beside public toilets at play area.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1012867200000,
+        "Condition_Date": 1548547200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Kelburn\\Botanical Gardens of Wellington - P0466",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456327,
+            -5054655
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "OdysseyID": "PSRDRINKFOUN5",
+        "Description": "Drinking fountain between TSB ampitheatre style seats and Water Whirler sculpture.\r\n",
+        "Asset_Number": 20396499,
+        "GIS_ID": "PSRDRINKFOUN5",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Next to Water Whirler",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "RENEWAL REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Frank Kitts Park Precinct - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456483,
+            -5060310
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "OdysseyID": "20408947",
+        "Description": "Drinking Fountain on north side of dug out on Hockey Turf 3 - Mt Albert.",
+        "Asset_Number": 20408947,
+        "GIS_ID": "20408947",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking Fountain on south side of dug out on Hockey Turf 3 - Mt Albert.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1493856000000,
+        "Condition_Date": 1556668800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Island Bay\\Mt Albert Park, National Hockey Stadium - P0874",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456203,
+            -5053509
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "OdysseyID": "01385559",
+        "Description": "Drinking fountain on the northwest corner of the shrub bed.",
+        "Asset_Number": 20016115,
+        "GIS_ID": "01385559",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain ,located on the north west corner of the shrub bed, Molesworth St.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1152489600000,
+        "Condition_Date": 1578355200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Thorndon\\Molesworth St",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457517,
+            -5055361
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "OdysseyID": "20393441",
+        "Description": "Drinking fountain on the front wall of Freyberg Pool, at opposite end from main entrance.\r\n",
+        "Asset_Number": 20393441,
+        "GIS_ID": "20393441",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Freyberg pool internal drinking fountain insde the pool facility",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": 1467331200000,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1462060800000,
+        "Condition_Date": 1462060800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Oriental Bay\\Freyberg Pool & Beach Play Area - P1268\\B0755 - Freyberg Pool, Bldg",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456928,
+            -5055491
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "OdysseyID": "01433956",
+        "Description": "Drinking fountain between the basketball half court and the skate bowl.\r\n",
+        "Asset_Number": 20013792,
+        "GIS_ID": "01433956",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Located between the basketball half court and the skate bowl.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1311638400000,
+        "Condition_Date": 1428883200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Waitangi Park - P2239",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455797,
+            -5060622
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "OdysseyID": "01441228",
+        "Description": "Drinking fountain near the pavilion.",
+        "Asset_Number": 20009756,
+        "GIS_ID": "01441228",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Attached to the pavilion.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "Not Applicable",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1379548800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Berhampore\\Wakefield Park - P1249",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457932,
+            -5056240
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "OdysseyID": "20004353",
+        "Description": "Drinking fountain next to fence by Byrd Memorial.",
+        "Asset_Number": 20004353,
+        "GIS_ID": "20004353",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain next to fence adjacent to Byrd memorial.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1373241600000,
+        "Condition_Date": 1538956800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Mt Victoria\\Mt Victoria Lookout/Byrd Memorial",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457109,
+            -5055332
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "OdysseyID": "20390232",
+        "Description": "Drinking fountain in northwest of Boat Harbour Park",
+        "Asset_Number": 20390232,
+        "GIS_ID": "20390232",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Boat Harbour Park - Drinking Fountain in north west of park",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1388534400000,
+        "Condition_Date": 1488326400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Waitangi Precinct (Excluding Waitangi Park) - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "No",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456374,
+            -5055072
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "OdysseyID": "PSRDRINKFOUN6",
+        "Description": "Drinking fountain on the lagoon side, between Raukura Wharewaka Function Centre and Rowing Club.",
+        "Asset_Number": 20396500,
+        "GIS_ID": "PSRDRINKFOUN6",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Western side of Wharewaka at end of row of Bollards",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Taranaki Street Wharf Precinct - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456797,
+            -5059610
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "OdysseyID": "01442941",
+        "Description": "Drinking fountain and tap attached to wire mesh fence in northeast corner of track.",
+        "Asset_Number": 20007198,
+        "GIS_ID": "01442941",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Basic drinking fountain and tap attached to wire mesh fence north east corner of track near 100m track starts.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1427760000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Newtown\\Newtown Park and Play Area - P0733",
+        "Dog_Bowl": "No",
+        "Filter": "No",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19458951,
+            -5055525
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "OdysseyID": "01441229",
+        "Description": "Drinking fountain near the toilets.",
+        "Asset_Number": 20006989,
+        "GIS_ID": "01441229",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Attached to the pavilion.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1530057600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Roseneath\\Public Toilets Balaena Bay - Evans Bay - P0725",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": null,
+        "Installation_Type": "Not Applicable",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457080,
+            -5055059
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "OdysseyID": "PSRDRINKFOUN10",
+        "Description": "Drinking fountain at eastern side of Clyde Quay Wharf.\r\n",
+        "Asset_Number": 20396504,
+        "GIS_ID": "PSRDRINKFOUN10",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Eastern side of Clyde Quay Wharf",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Waitangi Precinct (Excluding Waitangi Park) - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19453197,
+            -5053786
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "OdysseyID": "20410050",
+        "Description": "Drinking Fountain located in the southern end of the Cemetery on the south eastern end of the rose garden.",
+        "Asset_Number": 20410050,
+        "GIS_ID": "20410050",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking Fountain located in the southern end of the Cemetery on the south eastern end of the rose garden.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1573516800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Karori Cemetery - P1141",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457127,
+            -5049230
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "OdysseyID": "20423865",
+        "Description": "Drinking fountain at the bottom of the ramp entrance to Nairnville Recreation Centre.",
+        "Asset_Number": 20423865,
+        "GIS_ID": "20423865",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Fountain attached to the side of the building, on the sportsfield side.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1556755200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Khandallah\\Nairnville Park & Play Area - P1623",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457059,
+            -5054970
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "OdysseyID": "PSRDRINKFOUN9",
+        "Description": "Drinking fountain at northern end of Clyde Quay Wharf.",
+        "Asset_Number": 20396503,
+        "GIS_ID": "PSRDRINKFOUN9",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Northern end of Clyde Quay Wharf",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Waitangi Precinct (Excluding Waitangi Park) - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456871,
+            -5058970
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "OdysseyID": "P023507000110.0",
+        "Description": "Drinking fountain in Denton Place Park.",
+        "Asset_Number": 20015339,
+        "GIS_ID": "P023507000110.0",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking Fountain in Carrara Park.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 943488000000,
+        "Condition_Date": 1527811200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Newtown\\Carrara Pk and Play Area, 107 Daniell",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "No",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19450283,
+            -5054749
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "OdysseyID": "01410914",
+        "Description": "Drinking fountain at the northern end of pavilion facing sportsfield, mounted to the wall.",
+        "Asset_Number": 20005840,
+        "GIS_ID": "01410914",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Northern end of pavillon facing sports field, mounted to the wall.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1211414400000,
+        "Condition_Date": 1465430400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Karori Park and Play Area - P0552",
+        "Dog_Bowl": "No",
+        "Filter": "No",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 36",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456483,
+            -5060332
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "OdysseyID": "20408946",
+        "Description": "Drinking Fountain on south side of dug out on Hockey Turf 3 - Mt Albert.",
+        "Asset_Number": 20408946,
+        "GIS_ID": "20408946",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking Fountain on south side of dug out on Hockey Turf 3 - Mt Albert",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1493856000000,
+        "Condition_Date": 1556668800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Island Bay\\Mt Albert Park, National Hockey Stadium - P0874",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19450070,
+            -5054926
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "OdysseyID": "20409485",
+        "Description": "Drinking Fountain in front of Mud Cycles at Terawhiti Park.\r\n",
+        "Asset_Number": 20409485,
+        "GIS_ID": "20409485",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking Fountain in front of the old bowling club at Terawhiti Park.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": 1512000000000,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1578528000000,
+        "Condition_Date": null,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Terawhiti Wilf Glover Turf - P0553",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457062,
+            -5055170
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "OdysseyID": "PSRDRINKFOUN8",
+        "Description": "Drinking fountain on western side of Clyde Quay Wharf.",
+        "Asset_Number": 20396502,
+        "GIS_ID": "PSRDRINKFOUN8",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Western side of Clyde Quay Wharf next to second row of Berths",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Waitangi Precinct (Excluding Waitangi Park) - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456186,
+            -5056502
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "OdysseyID": "01443789",
+        "Description": "Drinking fountain in the seating area close to the Mount Cook Police Barracks building.\r\n",
+        "Asset_Number": 20015253,
+        "GIS_ID": "01443789",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "In the seating area close to the Mount Cook Police Barracks building.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1578268800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Pukeahu National War Memorial Park - P3619",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454843,
+            -5054147
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "OdysseyID": "20403682",
+        "Description": "Drinking fountain at end of main entrance walkway on western end of discovery gardens.",
+        "Asset_Number": 20403682,
+        "GIS_ID": "20403682",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain at end of trench entrance walkway on western end of the plaza in the Discovery Gardens",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": 1506816000000,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1504137600000,
+        "Condition_Date": 1549152000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Kelburn\\Botanical Gardens of Wellington - P0466",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455275,
+            -5053772
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "OdysseyID": "01292937",
+        "Description": "Drinking fountain on brick base located at the entranceway to Lady Norwood's Rose Garden from the car park.",
+        "Asset_Number": 20002329,
+        "GIS_ID": "01292937",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain on brick base located at the entranceway to Lady Norwoods Rose Garden from the carpark",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1012262400000,
+        "Condition_Date": 1548547200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Kelburn\\Botanical Gardens of Wellington - P0466",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454325,
+            -5055769
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "OdysseyID": "01282909",
+        "Description": "Drinking fountain in the seating area on the south side of Aro Street, just before Holloway Road.",
+        "Asset_Number": 20000464,
+        "GIS_ID": "01282909",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain in the seating area on the south side of Aro St just before Holloway Rd. replaced March 2012.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1002240000000,
+        "Condition_Date": 1573516800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Aro Valley\\Polhill Gully Rec Reserve & Town Belt",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456727,
+            -5059765
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "OdysseyID": "01337098",
+        "Description": "Drinking fountain attached to the tap on the south side of the track near the brick steps.",
+        "Asset_Number": 20007148,
+        "GIS_ID": "01337098",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain attached to the tap on the south side of the track near the brick steps",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1107129600000,
+        "Condition_Date": 1427760000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Newtown\\Newtown Park and Play Area - P0733",
+        "Dog_Bowl": "No",
+        "Filter": "No",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "No",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454857,
+            -5053964
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "OdysseyID": "20433345",
+        "Description": "Drinking fountain near the toilet block.",
+        "Asset_Number": 20433345,
+        "GIS_ID": "20433345",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "William Bramley Drive outside toilet block",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1564617600000,
+        "Condition_Date": 1564617600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Kelburn\\Botanical Gardens of Wellington - P0466",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19458108,
+            -5055356
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "OdysseyID": "20427502",
+        "Description": "Drinking fountain on the eastern side of the band rotunda, Oriental Parade.",
+        "Asset_Number": 20427502,
+        "GIS_ID": "20427502",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "\"Drinking fountain on the eastern side of the band rotunda Oriental Parade. Sponsored by the Wellington Branch of the NZ Dental Association, \"\"Our mission is to reinstate water as the drink choice for New Zealanders\"\"\"",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1571616000000,
+        "Condition_Date": 1571616000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Oriental Bay\\Band Rotunda Com Rms & Fishermans Table - P0864",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456343,
+            -5054470
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "OdysseyID": "PSRDRINKFOUN4",
+        "Description": "Drinking fountain beside the wall between Fergs Kayaks and public toilets.",
+        "Asset_Number": 20396498,
+        "GIS_ID": "PSRDRINKFOUN4",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "North-east corner of Shed 6 next to Public Toilets",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Queens Wharf Precinct - P2519 - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456685,
+            -5059621
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "OdysseyID": "01442949",
+        "Description": "Drinking fountain attached to external wall on lower level grandstand.",
+        "Asset_Number": 20007205,
+        "GIS_ID": "01442949",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Attached to outside wall on lower level of Grandstand",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1427846400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Newtown\\Newtown Park and Play Area - P0733",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 36",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19458905,
+            -5054854
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "OdysseyID": "01404462",
+        "Description": "Drinking fountain pedestal on the footpath outside Roseneath School, 11 Maida Vale Road.",
+        "Asset_Number": 20016006,
+        "GIS_ID": "01404462",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain pedestal cast iron, on the footpath outside Roseneath School, 11 Maida Vale Rd.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1125273600000,
+        "Condition_Date": 1535414400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Roseneath\\Maida Vale Rd",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455476,
+            -5060340
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "OdysseyID": "01430598",
+        "Description": "Drinking fountain behind the seat at the no.8 tee.\r\n",
+        "Asset_Number": 20001142,
+        "GIS_ID": "01430598",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Located behind the seat at the No.8 tee.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1277683200000,
+        "Condition_Date": 1382486400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Berhampore\\Berhampore Golf Links, Nursery, Skate - P0345",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Unknown",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456254,
+            -5056452
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "OdysseyID": "01443788",
+        "Description": "Drinking fountain at the very top of Tory Street, near where Tory Street becomes Tasman Street.\r\n",
+        "Asset_Number": 20015252,
+        "GIS_ID": "01443788",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "At the very top of Tory Street, near where Tory Street becomes Tasman Street.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1578268800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Pukeahu National War Memorial Park - P3619",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456510,
+            -5055714
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "OdysseyID": "20417259",
+        "Description": "Drinking fountain on the road side, near the corner of Courtenay Pl and Tory Street. Has bottle filler on the side.",
+        "Asset_Number": 20417259,
+        "GIS_ID": "20417259",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain on the road side, near the corner of Courtenay Pl and Tory Street. Has bottle filler on the side.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1534982400000,
+        "Condition_Date": 1538006400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Courtenay Pl",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455951,
+            -5055684
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "OdysseyID": "20417260",
+        "Description": "Drinking fountain at the intersection of Cuba and Ghuznee Streets. Has bottle filler on the side.",
+        "Asset_Number": 20417260,
+        "GIS_ID": "20417260",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain at the intersection of Cuba and Ghuznee Streets. Has bottle filler on the side.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1534982400000,
+        "Condition_Date": 1538006400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Cuba St",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19451792,
+            -5054412
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "OdysseyID": "01425604",
+        "Description": "Drinking fountain in the park near Karori Road, at the seating area.",
+        "Asset_Number": 20013993,
+        "GIS_ID": "01425604",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking Fountain at the park near Karori Rd, at the seating area",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1250812800000,
+        "Condition_Date": 1404432000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Old Karori Comm Ctr, 237 Karori Rd",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Yes",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19452986,
+            -5052671
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "OdysseyID": "01441540",
+        "Description": "Drinking fountain (with dog bowl) at corner of path leading to Peter Fraser's Memorial.",
+        "Asset_Number": 20009208,
+        "GIS_ID": "01441540",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain and dog watering station on corner of path to Peter Frasers Memorial.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1573516800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Karori Cemetery - P1141",
+        "Dog_Bowl": "Yes",
+        "Filter": "Yes",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456882,
+            -5055302
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "OdysseyID": "20013790",
+        "Description": "Drinking fountain in the wind garden northwest corner of the park. (Herd Street)\r\n",
+        "Asset_Number": 20013790,
+        "GIS_ID": "20013790",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Located in the wind garden North West corner of the park. (Herd Street)",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1311638400000,
+        "Condition_Date": 1427673600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Waitangi Park - P2239",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455362,
+            -5063198
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "OdysseyID": "P056707000105.0",
+        "Description": "Drinking fountain in play area by swings.\r\n",
+        "Asset_Number": 20006144,
+        "GIS_ID": "P056707000105.0",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain in play area by swings",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 943315200000,
+        "Condition_Date": 1569283200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Island Bay\\Shorland Park and Play Area - P0567",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455947,
+            -5054520
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "OdysseyID": "01371056",
+        "Description": "Drinking fountain pedestal, on the apex area at the corner of Featherstone / Hunter / Lambton Quay.",
+        "Asset_Number": 20015976,
+        "GIS_ID": "01371056",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain pedestal cast iron, on the apex area at the corner of Featherston / Hunter / Lambton Quay Lambton,Hunter,Featherston Sts",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1125273600000,
+        "Condition_Date": 1576972800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Central\\Lambton Quay",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455239,
+            -5053873
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "OdysseyID": "01292961",
+        "Description": "Drinking fountain by the perennial collection outside the Begonia House Cafe.\r\n",
+        "Asset_Number": 20002349,
+        "GIS_ID": "01292961",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain by the perennial collection outside the Begonia house cafe",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1012262400000,
+        "Condition_Date": 1548547200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Kelburn\\Botanical Gardens of Wellington - P0466",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456823,
+            -5055441
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "OdysseyID": "20420176",
+        "Description": "Drinking fountain in the seating area southwest corner of the park.\r\n",
+        "Asset_Number": 20420176,
+        "GIS_ID": "20420176",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Memorial Drinking Fountaing for Billie Tait-Jones. Totara timber panels with carving on front face.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": 1541030400000,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": 1541030400000,
+        "Condition_Date": null,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Waitangi Park - P2239",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455111,
+            -5056475
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "OdysseyID": "P044907000134.0",
+        "Description": "Drinking fountain at the main entrance beside the water feature. Has fountain, bottle filler, tap & dog bowl.\r\n",
+        "Asset_Number": 20002062,
+        "GIS_ID": "P044907000134.0",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Main entrance beside the water feature. Has fountain, bottle filler, tap",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 943315200000,
+        "Condition_Date": 1551139200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Brooklyn\\Central Park - P0449",
+        "Dog_Bowl": "Yes",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454897,
+            -5054050
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "OdysseyID": "01382973",
+        "Description": "Drinking fountain at the Treehouse outside main entrance.",
+        "Asset_Number": 20003087,
+        "GIS_ID": "01382973",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Treehouse out side main entrance",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1148256000000,
+        "Condition_Date": 1549152000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Kelburn\\Botanical Gardens of Wellington - P0466",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Unknown",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456347,
+            -5054128
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "OdysseyID": "PSRDRINKFOUN1",
+        "Description": "Drinking fountain at the northern end of tug bridge.",
+        "Asset_Number": 20396496,
+        "GIS_ID": "PSRDRINKFOUN1",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Northern end of Tug Wharf Bridge. Tug Wharf Public Space.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Kumutoto Precinct - P3805",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19449954,
+            -5056294
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "OdysseyID": "01433725",
+        "Description": "Drinking fountain by the toilets, also has a bottle filler and tap.",
+        "Asset_Number": 20013368,
+        "GIS_ID": "01433725",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "install freestanding drinking fountain, bottle filler, tap by the toilets",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1306886400000,
+        "Condition_Date": 1308528000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Makara\\Makara Peak Reserve - P2076",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456619,
+            -5060535
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "OdysseyID": "20423783",
+        "Description": "Drinking fountain located on the walkway between Hockey turf 1 and 2 on the eastern side attached to building.",
+        "Asset_Number": 20423783,
+        "GIS_ID": "20423783",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain located on the walkway between Hockey turf 1 and 2 on the eastern side attached to building.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 0,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1556755200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Island Bay\\Mt Albert Park, National Hockey Stadium - P0874",
+        "Dog_Bowl": "No",
+        "Filter": "No",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19457084,
+            -5055494
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "OdysseyID": "01433957",
+        "Description": "Drinking fountain in front of the kiosk by the play area.\r\n",
+        "Asset_Number": 20013793,
+        "GIS_ID": "01433957",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Located in front of the Kiosk by the playarea.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1311638400000,
+        "Condition_Date": 1428883200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Waitangi Park - P2239",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456334,
+            -5055619
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "OdysseyID": "01371055",
+        "Description": "Drinking fountain on the pavement near Taranaki Street, by the sculpture \"Te Moana\".",
+        "Asset_Number": 20015579,
+        "GIS_ID": "01371055",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "On the pavement near Taranaki St  by the sculpture  'Te Moana' (36' Halsey Taylor cast iron pedestal drinking fountain)",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1403136000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Courtenay Pl",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456451,
+            -5058692
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "OdysseyID": "01438693",
+        "Description": "Drinking Fountain between the play area and the library.",
+        "Asset_Number": 20000596,
+        "GIS_ID": "01438693",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Located between the play area and the library. See attached for details.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1527811200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Newtown\\Constable St Play Area & Public Toilets - P0225",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Unknown",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19453949,
+            -5051919
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "OdysseyID": "01311755",
+        "Description": "Drinking fountain attached to the outside wall of the Information Centre, 0.4m from the northern corner of the building.",
+        "Asset_Number": 20005416,
+        "GIS_ID": "01311755",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain attached to the outside wall of the Information Centre, 0.4m from the Northern corner of the building",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1055980800000,
+        "Condition_Date": 1563926400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wilton\\Otari Wiltons Bush - P0549",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456198,
+            -5054445
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "OdysseyID": "PSRDRINKFOUN2",
+        "Description": "Drinking fountain on building opposite Wellington Museum Entrance.",
+        "Asset_Number": 20396497,
+        "GIS_ID": "PSRDRINKFOUN2",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Queens Wharf Square & Laneway opposite Wellington  Museum entrance",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1499299200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Queens Wharf Precinct - P2519 - P3805",
+        "Dog_Bowl": "Yes",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19458557,
+            -5057575
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "OdysseyID": "01441232",
+        "Description": "Drinking fountain near the toilets.",
+        "Asset_Number": 20013946,
+        "GIS_ID": "01441232",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Attached to the pavilion.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1504828800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Hataitai\\Public Toilets - Hataitai Beach - P2303",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Wall Mounting",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455980,
+            -5055156
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "OdysseyID": "20417274",
+        "Description": "Drinking fountain in seating area on the corner of Victoria and Bond Streets. ",
+        "Asset_Number": 20417274,
+        "GIS_ID": "20417274",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain in seating area on corner of Victoria and Bond Streets.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1538611200000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Te Aro\\Bond St",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455694,
+            -5058205
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "OdysseyID": "01430788",
+        "Description": "Refill station located to the west of the pavilion building on the artificial warm-up area.\r\n",
+        "Asset_Number": 20015004,
+        "GIS_ID": "01430788",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "1.2m high refill station located to the west of the pavilion building on the artificial warm up area. See attached diagram",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MAINT REQUIRED",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1280966400000,
+        "Condition_Date": 1572480000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Newtown\\Te Whaea - P3379",
+        "Dog_Bowl": "No",
+        "Filter": "Yes",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Halsey Taylor Ped 30",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455095,
+            -5055998
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "OdysseyID": "01434999",
+        "Description": "Drinking fountain near the toilets.",
+        "Asset_Number": 20012845,
+        "GIS_ID": "01434999",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain near the toilets.",
+        "Short_Description": "Drinking Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "MINOR DEFECTS",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1376438400000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Aro Valley\\Aro St Park - P1929",
+        "Dog_Bowl": "No",
+        "Filter": "Unknown",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Yes",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455843,
+            -5060717
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "OdysseyID": "20424147",
+        "Description": "Drinking fountain at the southern end of the play area at Wakefield Park.",
+        "Asset_Number": 20424147,
+        "GIS_ID": "20424147",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain at the southern end of the play area, beside seat and cycle rack.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1561334400000,
+        "Condition_Date": 1562025600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Berhampore\\Berhampore Golf Links, Nursery, Skate - P0345",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19455844,
+            -5060637
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "OdysseyID": "20424148",
+        "Description": "Drinking fountain at the northern end of the play area, beside the skate park.",
+        "Asset_Number": 20424148,
+        "GIS_ID": "20424148",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain at the northern end of the play area, beside the skate park.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": 1561334400000,
+        "Condition_Date": 1562025600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Berhampore\\Berhampore Golf Links, Nursery, Skate - P0345",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19458798,
+            -5057334
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "OdysseyID": "20423413",
+        "Description": "Drinking fountain on roadside of Evans Bay Dog Exercise park.",
+        "Asset_Number": 20423413,
+        "GIS_ID": "20423413",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain on roadside of Evans Bay Dog Exercise park.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Fin and Ops Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1574208000000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Hataitai\\Treasure Island / Kainui Reserve, 20",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Not Applicable",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Yes",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19451728,
+            -5054467
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "OdysseyID": "20427766",
+        "Description": "Drinking fountain in the main foyer opposite reception. Only available during recreation centre opening hours, 8:30am-10pm Mon-Fri, 8:30am-6pm Sat, 12noon-6pm Sun.",
+        "Asset_Number": 20427766,
+        "GIS_ID": "20427766",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain in the main foyer of Karori Rec Centre.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": null,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Karori Recreation Centre - P1066\\B0865 - Karori Recreation Centre, Bldg",
+        "Dog_Bowl": "Not Applicable",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Indoor",
+        "Installation_Type": "Not Applicable",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19454416,
+            -5049738
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "OdysseyID": "20427953",
+        "Description": "Drinking fountain in front of the Community Water Station, beside the fence on the eastern side of the park.",
+        "Asset_Number": 20427953,
+        "GIS_ID": "20427953",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Community Water Station drinking fountain on the eastern side of the reserve.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1560988800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Ngaio\\Huntleigh Pk & Silverstream Rd Play",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Wellington Water",
+        "Model": "Not Applicable",
+        "Owning_BU": "Wellington Water",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19456460,
+            -5055132
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "OdysseyID": "20427976",
+        "Description": "Drinking Fountain on Taranaki Street Wharf, beside the Hikitea and Bascule Bridge.",
+        "Asset_Number": 20427976,
+        "GIS_ID": "20427976",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Drinking fountain beside the Hikitea and Bascule Bridge.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1552089600000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Wellington Waterfront\\Taranaki Street Wharf Precinct - P3805",
+        "Dog_Bowl": "Yes",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Parks, Sport and Re",
+        "Model": "Not Applicable",
+        "Owning_BU": "Parks, Sport and Re",
+        "Tap": "No",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            19450287,
+            -5056367
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "OdysseyID": "20433245",
+        "Description": "Drinking fountain in front of the Community Water Station, at the Fitzgerald Place entrance.",
+        "Asset_Number": 20433245,
+        "GIS_ID": "20433245",
+        "Asset_Search_Description": "DRINKING FOUNTAIN",
+        "Asset_Description": "Community Water Station drinking fountain at the Fitzgerald Pl.",
+        "Short_Description": "Drink Fountain",
+        "Commission_Date": null,
+        "Master_AMIS": "OneCouncil",
+        "Quantity_UOM": "Total Count",
+        "Quantity": 1,
+        "Condition_Rating": "VERY GOOD",
+        "Financial_Asset": "Operational Asset",
+        "Construct_Installed": null,
+        "Condition_Date": 1560988800000,
+        "Asset_Type": "Amenities\\Drinking_Fountain",
+        "Within_Location": "Wellington\\Karori\\Wrights Hill Reserve",
+        "Dog_Bowl": "No",
+        "Filter": "Not Applicable",
+        "Indoor_Outdoor": "Outdoor",
+        "Installation_Type": "Freestanding",
+        "Managing_BU": "Wellington Water",
+        "Model": "Not Applicable",
+        "Owning_BU": "Wellington Water",
+        "Tap": "Not Applicable",
+        "Vandal_Resistant": "Not Applicable",
+        "Asset_Operating_Status": "In Use"
+      }
+    }
+  ]
+}
